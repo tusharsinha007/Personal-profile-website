@@ -3,7 +3,7 @@ function windowLoad(){
     var preloader=document.getElementById('pre-loader');
     preloader.style="display:none";
 }
-
+ 
 // add js about content view
 
 var subLinks=document.getElementsByClassName('sub-links');
