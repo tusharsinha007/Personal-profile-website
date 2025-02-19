@@ -10,7 +10,7 @@ var subLinks=document.getElementsByClassName('sub-links');
 var subContents=document.getElementsByClassName('sub-content');
 
 function openTab(tabname){
-    for(subLink of subLinks){
+    for(subLink of subLinks){ 
         subLink.classList.remove('active-link');
     }
 
